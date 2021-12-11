@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">network_example</string>
+    <string name="nothing_yet">Nothing yet...</string>
+    <string name="avatar">Avatar</string>
+</resources>
